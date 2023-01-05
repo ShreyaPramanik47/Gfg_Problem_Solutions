@@ -37,5 +37,5 @@ int main() {
         cout << obj.Search(n, a, key) << "\n";
     }
     return 0;
-}
+} 
 // } Driver Code Ends
